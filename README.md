@@ -1,9 +1,11 @@
 ﻿<a name="netly" />
-# Net.ly #
+# Hello All Worlds Demonstration#
 
-The Net.ly demonstrates a simple ASP.NET Web API application running in Windows Azure and written using ASP.NET MVC and C#. This document explains the process of getting the latest source code of the Net.ly demo from the Windows Azure Web Sites GitHub.com repository where it is stored and copying it into Windows Azure Web Sites as an active site.
+The Hello All Worlds Demonstration shows how all of the major web development frameworks - PHP, Node.js, and various Microsoft tools from ASP to Razor syntax Web Pages - are all enabled by default in Windows Azure Web Sites.
 
-Clone the reposyitory from the GitHub.com repository. 
+-------------------------------------------------------
+
+Clone the repository from the GitHub.com repository. 
 
 ![Clone the repository from GitHub](https://github.com/WindowsAzure-Preview/Net.ly/blob/master/Images/1.png?raw=true)
 
