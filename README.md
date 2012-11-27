@@ -5,4 +5,4 @@ The Hello All Worlds Demonstration shows how all of the major web development fr
 
 -------------------------------------------------------
 
-Detailed instructions on walking through this demo are available in the <a href="gettingstarted.md">Getting Started</a> document.
+Detailed instructions on walking through this demo are available in the <a href="/gettingstarted.md">Getting Started</a> document.
